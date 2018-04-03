@@ -61,3 +61,6 @@
  * `git checkout <branch_name>`
  * OR
  * `git checkout -t <remote_branch>`
+
+#### See graphical log
+ * gitk
