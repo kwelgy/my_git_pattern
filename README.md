@@ -2,7 +2,7 @@
 
 ## Usual Pattern
 
-#### central repo:
+#### local central repo:
  * `git init --bare` "initialize bare directory"
 
 #### local repo:
@@ -13,7 +13,12 @@
  * `git push origin master`
 
 #### working repo:
- * `git clone <central repo>``git checkout -b <branch>` (anytime after) `git push -u origin <branch>`code(contextual) `git add <files>``git commit -m <message>`
+ * `git clone <central repo>`
+ * `git checkout -b <branch>`
+ * (anytime after) `git push -u origin <branch>`
+ * code(contextual)
+ * `git add <files>`
+ * `git commit -m <message>`
 
 #### merging branch:
  * `git checkout master`
@@ -36,7 +41,7 @@
  * `git commit --amend`
 
 #### .gitignore
- * ignore folder <<ex: /git>>
+ * ignore folder <<ex: git/>>
  * ignore filetype <<ex: .git>>
 
 #### import subtree
@@ -49,3 +54,11 @@
  * `git rm --cached <file1.txt>`
  * `git commit -m <"remove file1.txt">`
  * can use `git rm` to delete local and from r
+
+#### track remote branch
+ * `git branch -a`
+
+ * `git branch -t <branch_name> <remote_branch>`
+ * `git checkout <branch_name>`
+
+ * `git checkout -t <remote_branch>`
