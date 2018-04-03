@@ -57,8 +57,7 @@
 
 #### track remote branch
  * `git branch -a`
-
  * `git branch -t <branch_name> <remote_branch>`
  * `git checkout <branch_name>`
-
+ * OR
  * `git checkout -t <remote_branch>`
