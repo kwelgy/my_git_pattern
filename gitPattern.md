@@ -46,7 +46,8 @@
 
 #### import subtree
  * `git remote add <name_remote> <path-or-url-to-XXX-repo>`
- * `git fetch <name_remote>``git merge -s ours --no-commit <name_remote/master>`
+ * `git fetch <name_remote>`
+ * `git merge -s ours --no-commit <name_remote/master>`
  * `git read-tree --prefix=ZZZ/ -u <name_remote/master>`
  * `git commit -m "Imported XXX as a subtree."`
 
