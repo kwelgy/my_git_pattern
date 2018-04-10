@@ -66,7 +66,7 @@
 #### See graphical log
  * `gitk`
 
-# Merge repos and preserve history
+# Merge repos and preserve history <https://saintgimp.org/2013/01/22/merging-two-git-repositories-into-one-repository-without-losing-file-history/>
 ###### Assume the current directory is where we want the new repository to be created
 ###### Create the new repository
 git init
