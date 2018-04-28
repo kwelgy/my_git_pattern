@@ -1,7 +1,5 @@
 # my_git_pattern
 
-## Usual Pattern
-
 #### local central repo:
  * `git init --bare` "initialize bare directory"
 
