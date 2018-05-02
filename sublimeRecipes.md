@@ -3,10 +3,10 @@
 ### Table of Contents
 **[Column Editing](Column-Editing)**<br>
 
-
 ## Column Editing
 
 Highlight Word<br>
+
 Add Word:<br>
 * ctrl+d<br>
 Go to Previous Word:<br>
