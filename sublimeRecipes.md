@@ -7,17 +7,17 @@
 
 * Highlight Word
 
-* Add Word:
+* Add Word:<br>
 ctrl+d
 
-* Go to Previous Word:
-ctrl+u<br>
+* Go to Previous Word:<br>
+ctrl+u
 
-* Skip Current Word:
+* Skip Current Word:<br>
 ctrl+k+d
 
-* Open Command Pallet [WIN]:
-ctrl+shift+p<br>
+* Open Command Pallet [WIN]:<br>
+ctrl+shift+p
 
-* Open Help Search [MAC]:
+* Open Help Search [MAC]:<br>
 cmd?+shift+/
