@@ -5,19 +5,19 @@
 
 ## Column Editing
 
-* Highlight Word<br>
+* Highlight Word
 
-* Add Word:<br>
-ctrl+d<br>
+* Add Word:
+ctrl+d
 
-* Go to Previous Word:<br>
+* Go to Previous Word:
 ctrl+u<br>
 
-* Skip Current Word:<br>
-ctrl+k+d<br>
+* Skip Current Word:
+ctrl+k+d
 
-* Open Command Pallet [WIN]:<br>
+* Open Command Pallet [WIN]:
 ctrl+shift+p<br>
 
-* Open Help Search [MAC]:<br>
-cmd?+shift+/<br>
+* Open Help Search [MAC]:
+cmd?+shift+/
