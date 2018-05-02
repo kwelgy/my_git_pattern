@@ -1,9 +1,24 @@
 # SUBLIME RECIPES
 
-## Column Edit
-* highlight word
-* ctrl+d            to add
-* ctrl+u            to go back
-* ctrl+k+d          to skip current
-* win: ctrl+shift+p open command pallet
-* mac: cmd?+shift+/ open help search
+### Table of Contents
+**[Column Editing](Column-Editing)**<br>
+
+
+### Column Editing
+
+Highlight Word
+
+Add Word:
+ctrl+d
+
+Go to Previous Word:
+ctrl+u
+
+Skip Current Word:
+ctrl+k+d
+
+Open Command Pallet [WIN]:
+ctrl+shift+p
+
+Open Help Search [MAC]:
+cmd?+shift+/
