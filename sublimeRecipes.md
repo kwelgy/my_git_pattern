@@ -21,3 +21,8 @@ ctrl+shift+p
 
 * Open Help Search [MAC]:<br>
 cmd?+shift+/
+
+* Incremental Search
+ctrl + i
+search
+type replacement
