@@ -26,3 +26,6 @@ cmd?+shift+/
 ctrl + i  
 search  
 type replacement  
+
+* GoTo Line  
+ctrl + g
