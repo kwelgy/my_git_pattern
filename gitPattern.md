@@ -107,3 +107,7 @@ git merge old_b/master
 mkdir old_b
 dir –exclude old_a,old_b | %{git mv $_.Name old_b}
 git commit -m “Move old_b files into subdir”
+
+
+#### Remove all untracked files and directories
+git clean -fdx
