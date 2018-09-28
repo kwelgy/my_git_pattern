@@ -111,3 +111,6 @@ git commit -m “Move old_b files into subdir”
 
 #### Remove all untracked files and directories
 git clean -fdx
+
+#### See all ref updates
+git reflog
